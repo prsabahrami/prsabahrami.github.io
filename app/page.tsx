@@ -15,7 +15,7 @@ export default function Page() {
     <section className="max-w-3xl">
       <header className="mb-12">
         <h1 className="text-4xl font-bold mb-4 text-skin-base">Parsa Bahrami's virtual existence!</h1>
-        <p className="text-xl text-skin-base">Shall this be a place to share my tech-related and nerdy, sociological or philosophical ideas</p>
+        <p className="text-xl text-skin-base">This shall be a place to share my tech-related and nerdy, sociological or philosophical ideas</p>
       </header>
  
       <div className="mb-12">
